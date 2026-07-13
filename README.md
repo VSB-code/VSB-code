@@ -18,9 +18,9 @@
 
 I'm a passionate **Software Developer** with a strong foundation in **Web Development**, **Competitive Programming**, and **Open Source** contributions.
 
-I hold a **Bachelor of Technology in Computer Science and Engineering** from [Your University]. I believe in continuous learning and love to contribute to projects that make a difference.
+I believe in continuous learning and love to contribute to projects that make a difference.
 
-- 🎯 **Currently Learning:** System Design, Cloud Computing, Advanced DSA
+- 🎯 **Currently Learning:** DSA, Web development,Competitive Programming
 - 🤝 **Looking to Collaborate On:** Web Development, ML/AI projects, Open Source initiatives
 - 📫 **How to Reach Me:** Use the badges above or drop a mail!
 - 📄 **Resume:** [Download Here](link-to-your-resume)
