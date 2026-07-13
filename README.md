@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Developer** with a strong foundation in **Web Development**, **Competitive Programming**, and **Open Source** contributions. Currently, I'm working as an **SDE** at [Your Company], where I build scalable backend systems and solve complex engineering challenges.
+I'm a passionate **Software Developer** with a strong foundation in **Web Development**, **Competitive Programming**, and **Open Source** contributions.
 
 I hold a **Bachelor of Technology in Computer Science and Engineering** from [Your University]. I believe in continuous learning and love to contribute to projects that make a difference.
 
@@ -111,9 +111,9 @@ I hold a **Bachelor of Technology in Computer Science and Engineering** from [Yo
 
 ## 🏆 Achievements & Certifications
 
-- [Add your achievements here]
-- [e.g., Solved 500+ DSA problems across platforms]
-- [e.g., Contributor to open-source projects]
+- 
+- 
+- 
 
 ---
 
