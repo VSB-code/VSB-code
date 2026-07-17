@@ -30,7 +30,7 @@ Currently pursuing my B.Tech at **NIT Durgapur** (CGPA: 8.81), I bridge the gap 
 ### 🏆 Featured Projects
 
 #### 🏠 Hostel Management System
-*Technologies: Flask, MySQL, JavaScript, HTML/CSS, Render (Gunicorn)* | [https://hostel-management-system-f.onrender.com/](#) | [https://github.com/VSB-code/Hostel-Management-System](#)
+*Technologies: Flask, MySQL, JavaScript, HTML/CSS, Render (Gunicorn)* | [Demo:](https://hostel-management-system-f.onrender.com) | [Repo:](https://github.com/VSB-code/Hostel-Management-System)
 
 - Engineered a RESTful API for real-time occupancy tracking across **4 hostels (400+ rooms)**, reducing manual data reconciliation time by **20%**.
 - Designed a normalized relational database schema with foreign key constraints and composite indexes for optimized query performance.
