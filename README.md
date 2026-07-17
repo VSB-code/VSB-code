@@ -30,7 +30,7 @@ Currently pursuing my B.Tech at **NIT Durgapur** (CGPA: 8.81), I bridge the gap 
 ### 🏆 Featured Projects
 
 #### 🏠 Hostel Management System
-*Technologies: Flask, MySQL, JavaScript, HTML/CSS, Render (Gunicorn)* | [Live Demo](#) | [Repo](#)
+*Technologies: Flask, MySQL, JavaScript, HTML/CSS, Render (Gunicorn)* | [https://hostel-management-system-f.onrender.com/](#) | [https://github.com/VSB-code/Hostel-Management-System](#)
 
 - Engineered a RESTful API for real-time occupancy tracking across **4 hostels (400+ rooms)**, reducing manual data reconciliation time by **20%**.
 - Designed a normalized relational database schema with foreign key constraints and composite indexes for optimized query performance.
@@ -42,7 +42,7 @@ Currently pursuing my B.Tech at **NIT Durgapur** (CGPA: 8.81), I bridge the gap 
 ---
 
 #### 🔷 MiniGraphDB – Persistent Graph Database Engine
-*Technologies: C++17, STL, File I/O, OOP* | [Repo](https://github.com/yourusername/MiniGraphDB)
+*Technologies: C++17, STL, File I/O, OOP* | [Repo](https://github.com/VSB-code/Mini_Graph_Database_Engine)
 
 - Built a lightweight persistent graph database engine in **C++17** supporting dynamic node/edge creation, weighted relationships, and file-based storage.
 - Designed an **adjacency-list-based** graph representation using STL containers (`unordered_map` & `vector`) to enable efficient graph operations and path queries.
