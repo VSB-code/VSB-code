@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Virendra Singh</h1>
-<h3 align="center">Building Scalable Systems | C++ Backend Enthusiast | NIT Durgapur</h3>
+<h3 align="center">Building Scalable Systems | Python / C++ Backend Enthusiast | NIT Durgapur</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;DSA+Pro+%E2%9C%8A%EF%B8%8F;Full-Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
