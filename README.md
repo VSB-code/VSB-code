@@ -6,15 +6,27 @@
 </p>
 
 ---
+
 <div align="center">
 
-### 🧠 A Programmer's Mindset
+<h2>🧠 <span style="color:#58a6ff;">A Programmer's Mindset</span></h2>
 
-> *"Programming requires dogged determination and the ability to endure thousands of little defeats. It is a constant struggle against your own limitations."*
+<br>
 
-**— Programming Mindset**
+<blockquote>
+  <p>
+    <strong>
+      "Programming requires 
+      <span style="color:#58a6ff;">dogged determination</span>
+      and the ability to endure thousands of little defeats.
+      It is a constant struggle against your own limitations."
+    </strong>
+  </p>
+</blockquote>
 
-</div>
+<p>
+  <strong>⚡ Keep Thinking. Keep Failing. Keep Learning. Keep Building.</strong>
+</p>
 
 ---
 
