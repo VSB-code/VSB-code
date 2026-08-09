@@ -7,6 +7,15 @@
 
 ---
 
+<blockquote>
+  <p><i>
+    "Programming requires dogged determination and the ability to endure thousands
+    of little defeats. It is a constant struggle against your own limitations."
+  </i></p>
+</blockquote>
+
+---
+
 ### 🧑‍💻 Professional Summary
 
 I am a passionate Software Engineer with a strong foundation in **Data Structures & Algorithms**, **System Design**, and **Full-Stack Development**. I architect production-grade applications with ACID transactions and modular design patterns, ensuring high performance and data integrity. 
