@@ -6,13 +6,15 @@
 </p>
 
 ---
+<div align="center">
 
-<blockquote>
-  <p><i>
-    "Programming requires dogged determination and the ability to endure thousands
-    of little defeats. It is a constant struggle against your own limitations."
-  </i></p>
-</blockquote>
+### 🧠 A Programmer's Mindset
+
+> *"Programming requires dogged determination and the ability to endure thousands of little defeats. It is a constant struggle against your own limitations."*
+
+**— Programming Mindset**
+
+</div>
 
 ---
 
