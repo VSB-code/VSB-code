@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Virendra Singh</h1>
 
 <p align="center">
-  <b> Javascript / Python | Backend & Full-Stack Developer</b><br>
-  
+  <b>JavaScript / Python | Backend & Full-Stack Developer</b><br>
   B.Tech @ NIT Durgapur
 </p>
 
