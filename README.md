@@ -28,6 +28,8 @@
 
 **Databases:** MySQL, PostgreSQL, SQLite
 
+**AI / ML & Data:** NumPy, Pandas, NLP, Rule-Based AI, Data Processing
+
 **Tools:** Git, GitHub, Docker, Linux, Render
 
 **Core:** DSA, OOP, DBMS, OS, Computer Networks, System Design
