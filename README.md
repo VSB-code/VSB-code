@@ -14,10 +14,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech @ **NIT Durgapur** | CGPA: **8.81**
-- 💻 Strong in **C++ & Python**
+- 💻 Strong in **JavaScript & Python**
 - 🧠 Interested in **DSA, Backend Development & System Design**
 - 🚀 Love building practical and scalable applications
-- 🏆 Competitive Programming enthusiast
 
 ---
 
@@ -61,6 +60,10 @@
 - CLI with Python-based graph visualization.
 
 ---
+<p align="center">
+  <i>"Programming requires dogged determination and the ability to endure thousands of little defeats."</i>
+</p>
+---
 
 ## 📫 Connect With Me
 
@@ -74,6 +77,7 @@
 </p>
 
 ---
+
 
 <p align="center">
   <i>Keep learning. Keep building. Keep solving.</i>
