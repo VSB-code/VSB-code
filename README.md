@@ -1,53 +1,37 @@
 <h1 align="center">Hi 👋, I'm Virendra Singh</h1>
-<h3 align="center">Building Scalable Systems | Python / C++ Backend Enthusiast | NIT Durgapur</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;DSA+Pro+%E2%9C%8A%EF%B8%8F;Full-Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <b>Software Engineer | C++ / Python | Backend & Full-Stack Developer</b><br>
+  B.Tech @ NIT Durgapur
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=DSA+Enthusiast;Backend+Developer;Competitive+Programmer;System+Design+Learner" />
 </p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-<h2>🧠 <span style="color:#58a6ff;">A Programmer's Mindset</span></h2>
-
-<br>
-
-<blockquote>
-  <p>
-    <strong>
-      "Programming requires 
-      <span style="color:#58a6ff;">dogged determination</span>
-      and the ability to endure thousands of little defeats.
-      It is a constant struggle against your own limitations."
-    </strong>
-  </p>
-</blockquote>
-
-<p>
-  <strong>⚡ Keep Thinking. Keep Failing. Keep Learning. Keep Building.</strong>
-</p>
+- 🎓 B.Tech @ **NIT Durgapur** | CGPA: **8.81**
+- 💻 Strong in **C++ & Python**
+- 🧠 Interested in **DSA, Backend Development & System Design**
+- 🚀 Love building practical and scalable applications
+- 🏆 Competitive Programming enthusiast
 
 ---
 
-### 🧑‍💻 Professional Summary
+## 🛠️ Tech Stack
 
-I am a passionate Software Engineer with a strong foundation in **Data Structures & Algorithms**, **System Design**, and **Full-Stack Development**. I architect production-grade applications with ACID transactions and modular design patterns, ensuring high performance and data integrity. 
+**Languages:** C++, C, Python, JavaScript, SQL
 
-Currently pursuing my B.Tech at **NIT Durgapur** (CGPA: 8.81), I bridge the gap between low-level systems programming (C++17) and modern full-stack web development. I thrive on building scalable, high-performance systems and am actively seeking SDE/Full-Stack roles where I can solve complex engineering challenges.
+**Backend:** Flask, FastAPI, REST APIs
 
----
+**Databases:** MySQL, PostgreSQL, SQLite
 
-## 🛠️ Technical Arsenal
+**Tools:** Git, GitHub, Docker, Linux, Render
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **AI / ML & Data** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Rule-Based AI](https://img.shields.io/badge/Rule--Based-AI-blue?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-Keyword%20Based-green?style=for-the-badge) ![Data Processing](https://img.shields.io/badge/CSV-Processing-orange?style=for-the-badge) |
-| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **DevOps & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **Core Concepts** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, System Design, REST APIs, Data Preprocessing, Rule-Based AI, NLP, Evidence Retrieval, Modular AI Pipelines |
+**Core:** DSA, OOP, DBMS, OS, Computer Networks, System Design
 
 ---
 
@@ -55,48 +39,42 @@ Currently pursuing my B.Tech at **NIT Durgapur** (CGPA: 8.81), I bridge the gap 
 
 ### 🏠 Hostel Management System
 
-**Tech Stack:** Flask, MySQL, JavaScript, HTML/CSS
+**Flask · MySQL · JavaScript**
 
 [Live Demo](https://hostel-management-system-3-8st5.onrender.com) · [GitHub](https://github.com/VSB-code/Hostel-Management-System)
 
-- Developed a web-based hostel management system using Flask and MySQL.
-- Added real-time room and hostel occupancy tracking.
-- Designed a relational database with foreign keys and optimized queries.
-- Implemented secure admin login and session-based authentication.
-- Prevented duplicate room allocation using database transactions and row-level locking.
-- Built an AJAX-based dashboard for live occupancy updates.
-- Deployed the application on Render using Gunicorn.
+- Hostel and room occupancy management system.
+- Secure admin authentication and session management.
+- Database transactions and row-level locking to prevent duplicate allocation.
+- AJAX-based dashboard for real-time occupancy updates.
 
----
+### 🔷 MiniGraphDB
 
-### 🔷 MiniGraphDB – Graph Database Engine
-
-**Tech Stack:** C++17, STL, OOP, File I/O
+**C++17 · STL · OOP · File I/O**
 
 [GitHub](https://github.com/VSB-code/Mini_Graph_Database_Engine)
 
-- Built a lightweight graph database engine in C++17.
-- Supports dynamic node and edge creation with weighted relationships.
-- Used adjacency lists with `unordered_map` and `vector` for graph storage.
-- Implemented Dijkstra's algorithm for shortest-path queries.
-- Added file-based serialization and deserialization for persistent storage.
-- Created a command-line interface for graph operations.
-- Added a Python-based visualization layer for the stored graph.
+- Lightweight persistent graph database engine.
+- Supports weighted nodes and edges with graph queries.
+- Implements **Dijkstra's shortest path algorithm**.
+- File-based serialization/deserialization for persistent storage.
+- CLI with Python-based graph visualization.
 
 ---
 
-### 🌐 Let's Connect
-
-I love discussing system design, contributing to open-source, and solving tricky DSA problems. Let's build something amazing together!
+## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:vs9459979gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/VSB-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  
+  <a href="https://github.com/VSB-code">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:vs9459979@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <i>Keep learning. Keep building. Keep solving.</i>
 </p>
