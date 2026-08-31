@@ -51,33 +51,37 @@ Currently pursuing my B.Tech at **NIT Durgapur** (CGPA: 8.81), I bridge the gap 
 
 ---
 
-### 🏆 Featured Projects
+## 🏆 Featured Projects
 
-#### 🏠 Hostel Management System
-*Technologies: Flask, MySQL, JavaScript, HTML/CSS, Render (Gunicorn)* | [Demo:](https://hostel-management-system-3-8st5.onrender.com) | [Repo:](https://github.com/VSB-code/Hostel-Management-System)
+### 🏠 Hostel Management System
 
-- Engineered a RESTful API for real-time occupancy tracking across **4 hostels (400+ rooms)**, reducing manual data reconciliation time by **20%**.
-- Designed a normalized relational database schema with foreign key constraints and composite indexes for optimized query performance.
-- Implemented **ACID transactions** with row-level locking to eliminate double-booking race conditions during concurrent allocation spikes (handling **400+ simultaneous requests**).
-- Architected a modular **3-tier application** (Routes → Services → Models) using Flask Blueprints, improving code maintainability by **40%**.
-- Built a secure admin panel with Werkzeug password hashing, session-based authentication, and audit trails for complete operational transparency.
-- Deployed on **Render** with environment-variable configuration and AJAX-driven dashboards for live occupancy updates.
+**Tech Stack:** Flask, MySQL, JavaScript, HTML/CSS
 
----
+[Live Demo](https://hostel-management-system-3-8st5.onrender.com) · [GitHub](https://github.com/VSB-code/Hostel-Management-System)
 
-#### 🔷 MiniGraphDB – Persistent Graph Database Engine
-*Technologies: C++17, STL, File I/O, OOP* | [Repo](https://github.com/VSB-code/Mini_Graph_Database_Engine)
-
-- Built a lightweight persistent graph database engine in **C++17** supporting dynamic node/edge creation, weighted relationships, and file-based storage.
-- Designed an **adjacency-list-based** graph representation using STL containers (`unordered_map` & `vector`) to enable efficient graph operations and path queries.
-- Implemented **Dijkstra’s shortest path algorithm** for weighted graphs to compute optimal routes between nodes.
-- Added a custom **serialization/deserialization** layer to persist graph data across sessions using file handling and structured parsing.
-- Developed a **command-driven interface** (CLI) for graph operations: create, delete, display, and shortest-path queries with a Python visualization layer.
+- Developed a web-based hostel management system using Flask and MySQL.
+- Added real-time room and hostel occupancy tracking.
+- Designed a relational database with foreign keys and optimized queries.
+- Implemented secure admin login and session-based authentication.
+- Prevented duplicate room allocation using database transactions and row-level locking.
+- Built an AJAX-based dashboard for live occupancy updates.
+- Deployed the application on Render using Gunicorn.
 
 ---
 
+### 🔷 MiniGraphDB – Graph Database Engine
 
+**Tech Stack:** C++17, STL, OOP, File I/O
 
+[GitHub](https://github.com/VSB-code/Mini_Graph_Database_Engine)
+
+- Built a lightweight graph database engine in C++17.
+- Supports dynamic node and edge creation with weighted relationships.
+- Used adjacency lists with `unordered_map` and `vector` for graph storage.
+- Implemented Dijkstra's algorithm for shortest-path queries.
+- Added file-based serialization and deserialization for persistent storage.
+- Created a command-line interface for graph operations.
+- Added a Python-based visualization layer for the stored graph.
 
 ---
 
