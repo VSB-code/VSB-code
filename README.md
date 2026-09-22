@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech @ **NIT Durgapur** | CGPA: **8.81**
+- 🎓 B.Tech @ **NIT Durgapur** 
 - 💻 Strong in **JavaScript & Python**
 - 🧠 Interested in **DSA, Backend Development & System Design**
 - 🚀 Love building practical and scalable applications
